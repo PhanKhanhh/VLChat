@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275730621558",
+    "project_id": "chatappvlu",
+    "storage_bucket": "chatappvlu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275730621558:android:b96d44c2b0cf67f45feb57",
+        "android_client_info": {
+          "package_name": "com.example.simplechatvlu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4B1X5nsI-6mmLlS8_NSbU_CZP070Dd78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-# vlu_chat
+# Simple Chat VLU
 
 A new Flutter project.
 
